@@ -22,3 +22,6 @@ var model = ""
 - 3、给AI分配角色然后开始
 
 ![快来试试吧](img/img.png)
+
+## 演示
+https://www.bilibili.com/video/BV1AAyZBkEA2/
